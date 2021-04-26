@@ -28,7 +28,7 @@ disp('>>>Strat LR-NTF Unmixing,Please Wait>>>')
 
 %%
 %--------------------------------------------------------------------------
-%  Load cuprite data
+%  Load a sub-region of Washington DC Mall image
 %--------------------------------------------------------------------------
 %  
 load SubWashingtonDC2.mat;   % change this to load other real hyperspectral datasets
